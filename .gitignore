@@ -1,1 +1,7 @@
 .gitkey.txt
+.python-version
+db.sqlite3
+geckodriver.log
+manage.py
+superlists/
+virtualenv/
