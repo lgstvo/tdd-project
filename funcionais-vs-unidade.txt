@@ -1,0 +1,4 @@
+Testes funcionais ajudam ao desenvolvedor a compreender a forma com que o usuario ira interagir com o problema,
+enquanto testes de unidade auxiliam o desenvolvedor a compreender o sistema de modo tecnico.
+
+Testes funcionais costumam ser mais longos e complexos que testes de unidade
