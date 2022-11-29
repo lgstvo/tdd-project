@@ -1,0 +1,9 @@
+O TDD eh separado em etapas, sendo elas:
+
+1- Escrever o teste
+2- Rodar o teste
+2.1 - O teste vai falhar, entao escreva codigo minimo para ele passar
+2.2 - O teste passa
+3- Refatorar
+
+Esse ciclo eh aplicado tanto para testes funcionais quanto unitarios
